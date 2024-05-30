@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717051381 source:c:\users\ad\desktop\uet\ltnc\btl\baitaplonltnc\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"defs.h"
+	"graphics.h"
+
+1717051418 c:\users\ad\desktop\uet\ltnc\btl\baitaplonltnc\defs.h
+
+1715844397 c:\users\ad\desktop\uet\ltnc\btl\baitaplonltnc\graphics.h
+
